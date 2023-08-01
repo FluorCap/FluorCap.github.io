@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Banner](/FluorCap.github.io/assets/images/banner.png)
+![Banner](./docs/assets/images/banner.png)
 
 
 ### Definition lists can be used with HTML syntax.
